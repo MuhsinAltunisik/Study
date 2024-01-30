@@ -20,5 +20,6 @@ public class scanner {
         System.out.println("You are "+age+" years old");
         System.out.println("You like "+food);
         System.out.println();
+        System.out.println();
     }
 }
