@@ -1,6 +1,5 @@
 package Day1;
 import java.util.Scanner;
-
 public class forLoop {
 
     public static void main(String[] args) {

@@ -2,7 +2,9 @@ package Day1;
 import java.util.Scanner;
 
 public class nestedLoop {
+    public static void Isim(){
 
+    }
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -26,4 +28,5 @@ public class nestedLoop {
         }
 
     }
+
 }
